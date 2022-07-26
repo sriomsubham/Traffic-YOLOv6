@@ -7,7 +7,7 @@ dominated by two wheeler/bike/scooty.
 Recognising these bikes and the rider is a challenge specific to India and India has many defined traffic rules around bikes. This project is made 
 in order to help monitor bike traffic. 
 
-It can recognise 
+### It can recognise 
     1.Bike,
     2.Their number pate,
     3.Rider wearing helmet or not,
