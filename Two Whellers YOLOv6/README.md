@@ -19,10 +19,11 @@ from two differnet vedio/camera feed.
     the original YOLOv6 repo.
 2. main11.py : set the path for two input vedios (line 8 and 9) in for inferencing and run it. output vedio will be saved with name 'Output_vedio.avi'. 
     In the output vedio, processed vedios will be displayed side by side along with FPS.
-
-Sample output vedio :-
+    
+Sample output vedio :-    
+    
  file:///home/ubuntu/Downloads/Output_vedio1.avi
-Output_vedio1.avi
+
 
 ## Extra :-
 
