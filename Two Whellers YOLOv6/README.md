@@ -21,7 +21,9 @@ from two differnet vedio/camera feed.
     In the output vedio, processed vedios will be displayed side by side along with FPS.
 
 Sample output vedio :-
-<vedio src="Output_vedio1.avi" width="800">
+<video width="320" height="240" autoplay>
+  <source src="Output_vedio1.avi" type="Output_vedio1/avi">
+</video>
 
 ## Extra :-
 
