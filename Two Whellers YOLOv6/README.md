@@ -20,9 +20,9 @@ from two differnet vedio/camera feed.
 2. main11.py : set the path for two input vedios (line 8 and 9) in for inferencing and run it. output vedio will be saved with name 'Output_vedio.avi'. 
     In the output vedio, processed vedios will be displayed side by side along with FPS.
     
-Sample output vedio :-    
-    
- file:///home/ubuntu/Downloads/Output_vedio1.avi
+## Sample output vedio :-    
+
+https://user-images.githubusercontent.com/90675298/180957878-3ea6683e-ddf5-4452-9c26-93f00319ae40.mp4
 
 
 ## Extra :-
