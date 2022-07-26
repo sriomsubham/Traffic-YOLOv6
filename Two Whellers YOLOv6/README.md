@@ -21,9 +21,8 @@ from two differnet vedio/camera feed.
     In the output vedio, processed vedios will be displayed side by side along with FPS.
 
 Sample output vedio :-
-<video width="800" autoplay>
-  <source src="Output_vedio1.avi" type="Output_vedio1/avi">
-</video>
+ file:///home/ubuntu/Downloads/Output_vedio1.avi
+Output_vedio1.avi
 
 ## Extra :-
 
