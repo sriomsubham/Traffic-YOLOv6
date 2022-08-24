@@ -9,7 +9,6 @@ def main():
     cap2 = cv.VideoCapture("Test2.mp4") # path of the second inferenced video
 
     perv_frame_time = 0  # for fps calculation
-    new_frame_time = 0   # for fps calculation
 
     out = cv.VideoWriter('Output_vedio.avi', cv.VideoWriter_fourcc(*'MJPG'), 60, (1200, 390)) # For saving the output vedio file
                         #(Output file name,   function to save ,             fps, frame size of output file)
