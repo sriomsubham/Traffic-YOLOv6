@@ -30,6 +30,7 @@ def main():
         frame1 = inference.main(frame1)
         frame2 = inference.main(frame2)
 
+        '''
         # Print Frame Per Second (FPS) in each frame.
         font = cv.FONT_HERSHEY_COMPLEX   # for font type
 
@@ -41,7 +42,8 @@ def main():
 
         cv.putText(frame1, f"FPS = {int(fps)}", (4, 15), font, 0.5, (20, 80, 255), 1)
         cv.putText(frame2, f"FPS = {int(fps)}", (4, 15), font, 0.5, (20, 80, 255), 1)
-
+        '''
+            
         # Combining Both vedios for size-by-side vewing
         hori = np.concatenate((frame1, frame2), axis=1)
         last1, last2 = frame1, frame2
