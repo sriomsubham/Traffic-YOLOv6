@@ -18,7 +18,7 @@ from two differnet vedio/camera feed.
 1. Train YOLOv6 model on the custom dataset. The classes of the data set is in data/clsses.yaml file. Follow the [README1](https://github.com/sriomsubham/Traffic-YOLOv6/blob/main/Two%20Whellers%20YOLOv6/README1.md) for steps or
     the original [YOLOv6](https://github.com/meituan/YOLOv6) repo.
 2. main11.py : set the path for two input vedios (line 8 and 9) in for inferencing and run it. output vedio will be saved with name 'Output_vedio.avi'. 
-    In the output vedio, processed vedios will be displayed side by side along with FPS.
+    In the output vedio, processed vedios will be displayed side by side.
     
 ## Sample output vedio :-    
 
